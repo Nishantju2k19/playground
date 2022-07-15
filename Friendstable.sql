@@ -10,7 +10,7 @@ f_contact_num int,
 f_memories text,
 primary key (f_id)
 );
-
+-- this is a comm
 insert into friends value(
 1,'a_name','a_place', 'a_collage', 0000000, 'a_discription_of_an_event'
 ) ;
